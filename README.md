@@ -3,4 +3,4 @@
 
 ### PPT and python files for this project  are available in repository starts with the name "EDA".
 
-*This Project is still in development, as I planned to perform more analysis and to implement machine-learning model into it.
+*This Project is still in development, as I planned to perform more analysis, clean my codes  and to implement machine-learning model into it.
