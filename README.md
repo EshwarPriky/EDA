@@ -1,5 +1,5 @@
 ## Hello there....
-## In this Project I have done EDA to find the best products that can be marketed by an Influencer to his followers based upon there behaviour.
+## In this Project I have done EDA to find the best products that can be marketed by an Influencer to his followers based upon their behaviour.
 
 ### PPT and python files for this project  are available in repository starts with the name "EDA".
 
